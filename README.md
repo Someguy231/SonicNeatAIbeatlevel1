@@ -28,7 +28,4 @@ OpenCV-python opensourced
 Neat-python Opensourced
 NumPy opensourced
 SonictheHedgehog Sega
-StreetsOfRage Sega
-SonicTheHedgehog2 Sega
-Airstriker ElecktroKenisis
 Pickle opensourced
